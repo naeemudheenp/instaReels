@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reels Downloader</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="admob_app_id">ca-app-pub-6480505866670634~3695439569</string>
+    <string name="admob_banner_id">ca-app-pub-6480505866670634/8564622863</string>
+    <string name="admob_banner_dynamic">ca-app-pub-6480505866670634/8564622863</string>
+    <string name="welcome">"Hey!"</string>
+    <string name="relax">Just Relax."</string>
+    <string name="lazy">"You dont have to do anything."</string>
+    <string name="desc">Your video will download automatically.
+        Make sure that you have copied the url you want to download."</string>
+
+</resources>
